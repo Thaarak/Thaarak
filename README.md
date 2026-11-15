@@ -6,4 +6,4 @@ I’m a UC San Diego student studying data science + physics. I do research in c
 
 **I build with** Python, JAX, TypeScript, and React.
 
-[LinkedIn](https://www.linkedin.com/in/thaarak-sriram-b5a19829b/)
+[LinkedIn](https://www.linkedin.com/in/thaarak-sriram-b5a19829b/) · [X](https://x.com/SriramThaa)
