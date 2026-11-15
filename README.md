@@ -1,4 +1,4 @@
-![Thaarak Sriram](assets/banner-avenir.png)
+![Thaarak Sriram](assets/banner-monochrome.png)
 
 ## Hey, I’m Thaarak 👋
 
