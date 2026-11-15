@@ -1,8 +1,8 @@
-![Thaarak Sriram — Climate modeling and applied AI](assets/banner.png)
+![Thaarak Sriram](assets/banner.png)
 
 ## Hey, I’m Thaarak 👋
 
-I study data science at UC San Diego. I work on climate modeling and build tools that help people explore weather simulations and review AI-proposed edits to course materials.
+I’m a UC San Diego student studying data science + physics. I do research in climate modeling and human–computer interaction, and I’m interested in how we evaluate AI systems and make them safer to use.
 
 **I build with** Python, JAX, TypeScript, and React.
 
